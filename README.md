@@ -1,3 +1,2 @@
 # ACGG
-# ACGG2
-# ACGG2
+This repository contains the source code to generate the following [webpage]( https://setegnworku.github.io/ACGG/)
